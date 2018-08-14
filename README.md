@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Page on Unity
 
-You can use the [editor on GitHub](https://github.com/joshiKuldeep/Unity-I-A-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this to know about unity, its cool tools its application. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Where-ever you also commit to this repository, if you find some interesreting stuff too. 
 
-### Markdown
+## Intro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unity is just a game engine or not?. You gonna find it soon.
+It's a combined software package to create an environment just like our real life.
+We have tools to create models, animate things, play with audio and lightning stuff, control and interact with environment by training it with codes, Ah! that's scripting.
 
-```markdown
-Syntax highlighted code block
+Must Check this [Link](https://unity3d.com/)
 
-# Header 1
-## Header 2
-### Header 3
+### Tools
 
-- Bulleted
-- List
+- A very cool editor window with a lots of interactive options 
+*[Toolbar](https://docs.unity3d.com/Manual/Toolbar.html)
+Enables play/ pause/ stop functinality.
+Enables to translate things ref. as gameobjects within a scene.
+Enables to do collaboration, login for asset store usage.
+Enables to set screen layout and set layers.
 
-1. Numbered
-2. List
+*Menu bar
 
-**Bold** and _Italic_ and `Code` text
+*[Window](https://docs.unity3d.com/Manual/UsingTheEditor.html) like hierarchy, scene, game etc.
 
-[Link](url) and ![Image](src)
-```
+We can create objects primitive type or by importing models or by creating models using Probuilder types tools accessible from asset store.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We can [create](https://docs.unity3d.com/ScriptReference/GUILayout.Toolbar.html) our own window to enable interaction on our need.
 
-### Jekyll Themes
+And a lots of more.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshiKuldeep/Unity-I-A-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link](https://docs.unity3d.com/Manual/UnityOverview.html)
 
-### Support or Contact
+## Applications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Unity [Connect](https://connect.unity.com/)
+Unity Connect is a free-to-use community tool for all users, of all experience levels, to connect with each other. This platform is designed for developers, artists, creators of digital media and others alike. ... As a Unity Talent member, you can create your profile, search, and apply for jobs that suit you.
+

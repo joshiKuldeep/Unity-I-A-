@@ -15,6 +15,7 @@ Must Check this [Link](https://unity3d.com/)
 ### Tools
 
 - A very cool editor window with a lots of interactive options 
+
 *[Toolbar](https://docs.unity3d.com/Manual/Toolbar.html)
 Enables play/ pause/ stop functinality.
 Enables to translate things ref. as gameobjects within a scene.
@@ -34,6 +35,11 @@ And a lots of more.
 [Link](https://docs.unity3d.com/Manual/UnityOverview.html)
 
 ## Applications
+1. Game Development
+2. Application Development
+3. VR Apps
+4. AR Apps
+5. MR Apps and many more.
 
 ## Unity [Connect](https://connect.unity.com/)
 Unity Connect is a free-to-use community tool for all users, of all experience levels, to connect with each other. This platform is designed for developers, artists, creators of digital media and others alike. ... As a Unity Talent member, you can create your profile, search, and apply for jobs that suit you.

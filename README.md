@@ -32,15 +32,22 @@ We can [create](https://docs.unity3d.com/ScriptReference/GUILayout.Toolbar.html)
 
 And a lots of more.
 
-[Link](https://docs.unity3d.com/Manual/UnityOverview.html)
+[To know more about its Working] (https://docs.unity3d.com/Manual/UnityOverview.html)
 
 ## Applications
 1. Game Development
 2. Application Development
 3. VR Apps
-4. AR Apps
-5. MR Apps and many more.
+4. AR Apps (Wide applications)
+5. MR Apps
+6. Simulation using AI agents before real world implemetation.
+And many more.
 
 ## Unity [Connect](https://connect.unity.com/)
 Unity Connect is a free-to-use community tool for all users, of all experience levels, to connect with each other. This platform is designed for developers, artists, creators of digital media and others alike. ... As a Unity Talent member, you can create your profile, search, and apply for jobs that suit you.
+
+## Links
+[Tutorial and documentation](https://unity3d.com/learn)
+[Community](https://unity3d.com/community)
+[Blog](https://blogs.unity3d.com/?_ga=2.71312595.1968675066.1534182344-180155568.1533839055)
 
